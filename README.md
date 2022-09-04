@@ -1,1 +1,1 @@
-# Travel-Blog-App
+# Blog-App
